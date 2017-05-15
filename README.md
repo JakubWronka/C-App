@@ -7,3 +7,4 @@ Aplikacja do nauki słówek
 -po poprawnej odpowiedzi słówko już więcej się nie pojawi
 -za każde poprawnie odgadnięte słówko otrzymuje się jeden punkt (liczenie punktów)
 -możliwość dodawania własnych słówek do bazy danych
+-WPF/Console
