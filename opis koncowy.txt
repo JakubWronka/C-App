@@ -1,7 +1,8 @@
-Wykona³em aplikacje w konsoli. U¿y³em listy do przechowywania s³ówek. Do nauki kopiujê s³ówka do tymczasowej tablicy, i potem nauka odbywa siê poprzez iterowanie po tej tablicy.
-Dodawanie s³ówek to pobieranie dwóch stringów, jednego z polskim a drugiego z angielskim s³owem i doklejanie tego do g³ównej listy. Zapisywanie bazy danych do pliku tekstowego rozpoczynam od zapisania w pierwszej linii liczby s³ówek które siê w niej znajduj¹, aby póŸniej ³atwiej by³o je odczytaæ i za³adowaæ do programu.
-Odczyt – przy wykryciu zapisanej bazy danych mo¿emy od razu j¹ za³adowaæ. Przy odczycie sprawdzam pierwsz¹ liniê pliku tekstowego, i na podstawie tej liczby tyle razy iterujê po pliku i dodajê s³ówka do g³ównej listy.
-Tworzenie przyk³adowej bazy danych – po prostu dodajê 5 s³ówek w kodzie.
-W funkcjach PLtoENG i ENGtoPL do powtórzenia nauki tych samych co przed chwil¹ s³ówek jeszcze raz wywo³ujê dan¹ funkcjê w jej samej.
-Do zamykania przekazujê zmienn¹ control przez referencjê, ¿eby zmiana jej w funkcji faktycznie j¹ zmieni³a.
-W g³ownym pliku programu wywo³ujê funkcjê controller obiektu klasy core, która jest odpowiedzialna za ca³e dzia³anie programu.
+WykonaÅ‚em aplikacje w konsoli. UÅ¼yÅ‚em listy do przechowywania sÅ‚Ã³wek. Do nauki kopiujÄ™ sÅ‚Ã³wka do tymczasowej tablicy, i potem nauka odbywa siÄ™ poprzez iterowanie po tej tablicy.
+Dodawanie sÅ‚Ã³wek to pobieranie dwÃ³ch stringÃ³w, jednego z polskim a drugiego z angielskim sÅ‚owem i doklejanie tego do gÅ‚Ã³wnej listy. Zapisywanie bazy danych do pliku tekstowego rozpoczynam od zapisania w pierwszej linii liczby sÅ‚Ã³wek ktÃ³re siÄ™ w niej znajdujÄ…, aby pÃ³Åºniej Å‚atwiej byÅ‚o je odczytaÄ‡ i zaÅ‚adowaÄ‡ do programu.
+Odczyt â€“ przy wykryciu zapisanej bazy danych moÅ¼emy od razu jÄ… zaÅ‚adowaÄ‡. Przy odczycie sprawdzam pierwszÄ… liniÄ™ pliku tekstowego, i na podstawie tej liczby tyle razy iterujÄ™ po pliku i dodajÄ™ sÅ‚Ã³wka do gÅ‚Ã³wnej listy.
+Tworzenie przykÅ‚adowej bazy danych â€“ po prostu dodajÄ™ 5 sÅ‚Ã³wek w kodzie.
+W funkcjach PLtoENG i ENGtoPL do powtÃ³rzenia nauki tych samych co przed chwilÄ… sÅ‚Ã³wek jeszcze raz wywoÅ‚ujÄ™ danÄ… funkcjÄ™ w jej samej.
+Do zamykania przekazujÄ™ zmiennÄ… control przez referencjÄ™, Å¼eby zmiana jej w funkcji faktycznie jÄ… zmieniÅ‚a.
+W gÅ‚ownym pliku programu wywoÅ‚ujÄ™ funkcjÄ™ controller obiektu klasy core, ktÃ³ra jest odpowiedzialna za caÅ‚e dziaÅ‚anie programu.
+Link do filmu na yt: https://youtu.be/ArtaiG07t2o
