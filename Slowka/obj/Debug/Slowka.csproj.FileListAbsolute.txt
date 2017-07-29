@@ -1,0 +1,6 @@
+E:\Studia\Programy\Slowka\Slowka\bin\Debug\Slowka.exe.config
+E:\Studia\Programy\Slowka\Slowka\bin\Debug\Slowka.exe
+E:\Studia\Programy\Slowka\Slowka\bin\Debug\Slowka.pdb
+E:\Studia\Programy\Slowka\Slowka\obj\Debug\Slowka.csprojResolveAssemblyReference.cache
+E:\Studia\Programy\Slowka\Slowka\obj\Debug\Slowka.exe
+E:\Studia\Programy\Slowka\Slowka\obj\Debug\Slowka.pdb

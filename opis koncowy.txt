@@ -1,0 +1,7 @@
+Wykona³em aplikacje w konsoli. U¿y³em listy do przechowywania s³ówek. Do nauki kopiujê s³ówka do tymczasowej tablicy, i potem nauka odbywa siê poprzez iterowanie po tej tablicy.
+Dodawanie s³ówek to pobieranie dwóch stringów, jednego z polskim a drugiego z angielskim s³owem i doklejanie tego do g³ównej listy. Zapisywanie bazy danych do pliku tekstowego rozpoczynam od zapisania w pierwszej linii liczby s³ówek które siê w niej znajduj¹, aby póŸniej ³atwiej by³o je odczytaæ i za³adowaæ do programu.
+Odczyt – przy wykryciu zapisanej bazy danych mo¿emy od razu j¹ za³adowaæ. Przy odczycie sprawdzam pierwsz¹ liniê pliku tekstowego, i na podstawie tej liczby tyle razy iterujê po pliku i dodajê s³ówka do g³ównej listy.
+Tworzenie przyk³adowej bazy danych – po prostu dodajê 5 s³ówek w kodzie.
+W funkcjach PLtoENG i ENGtoPL do powtórzenia nauki tych samych co przed chwil¹ s³ówek jeszcze raz wywo³ujê dan¹ funkcjê w jej samej.
+Do zamykania przekazujê zmienn¹ control przez referencjê, ¿eby zmiana jej w funkcji faktycznie j¹ zmieni³a.
+W g³ownym pliku programu wywo³ujê funkcjê controller obiektu klasy core, która jest odpowiedzialna za ca³e dzia³anie programu.
